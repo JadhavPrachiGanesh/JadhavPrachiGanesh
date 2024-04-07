@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JadhavPrachiGanesh
+- 👋 Hi, I’m JadhavPrachiGanesh
 - 👀 I’m interested in ...Developing new projects and deploy them
 - 🌱 I’m currently learning ...B.Tech Computer Science
 - 💞️ I’m looking to collaborate on ...
